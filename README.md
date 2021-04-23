@@ -26,7 +26,8 @@
 
 
 ## Netlify Link
--
+- https://grupo8-tesla-ui-clone.netlify.app/
+
 ## Screen Shoots
 
 Model S: ![tesla-carro 1](https://github.com/MauricioAlvesM/tesla-clone/blob/main/tesla-pg-0.png)
