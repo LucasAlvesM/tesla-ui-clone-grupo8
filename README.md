@@ -1,14 +1,15 @@
 # Tesla Ui Clone :open_file_folder:     
 
-- Clone of the tesla interface developed in React, through a tutorial on Youtube by RocketSeat -
+**Clone of the tesla interface developed in React, through a tutorial on Youtube by RocketSeat**
 
-## Group 8 Members
-- Lucas Alves Moreira
-- Lucas Galdino
-- Mauricio Alves Moreira
-- Vitor Geovani
-- Tiago Soares
-- Ryan Marinho
+## Group 8 - Members
+
+:boy: **- Lucas Alves Moreira**
+:boy: **- Lucas Galdino**
+:boy: **- Maurício Alves Moreira**
+:boy: **- Vitor Geovani**
+:boy: **- Tiago Soares**
+:boy: **- Ryan Marinho**
 
 ### Tools used
 
