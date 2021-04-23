@@ -16,7 +16,7 @@
 
 :boy: **- Ryan Marinho**
 
-###  📌 Tools used
+##  📌 Tools used
 
 **<img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;"></img> React** 
 
@@ -24,19 +24,19 @@
 
 **<img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;"></img> <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;"></img> <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"></img> HTML, CSS e JS** 
 
-### :information_source: To run the dependencies it is necessary to run the following commands:
+## :information_source: To run the dependencies it is necessary to run the following commands:
  - ``` npx create-react-app --template=typescript clone-tesla ```
  - ``` yarn add framer-motion styled-components ```
  - ``` yarn add -D@types/styled-components ```
   
- ### 📌 Video used for the tutorial
+ ## 📌 Video used for the tutorial
  **Homepage da Tesla com ReactJS | UI Clone #14 https://www.youtube.com/watch?v=Mf4Se4ZGcG8**
 
 
 ## :information_source: Run it in Netlify -> Link below
 :link: **- https://grupo8-tesla-ui-clone.netlify.app/**
 
-## Screen Shoots
+## :pushpin: Screenshots
 
 **Model S:** ![tesla-carro 1](https://github.com/MauricioAlvesM/tesla-clone/blob/main/tesla-pg-0.png)
 
@@ -57,3 +57,7 @@
 
 
 **Acessories:** ![tesla-acessorios](https://github.com/MauricioAlvesM/tesla-clone/blob/main/tesla-pg-5.png)
+
+<p align="center">
+  <img width="300px" height"=300px" src="/logo_gp8.png">
+  </p>
