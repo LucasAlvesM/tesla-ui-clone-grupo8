@@ -5,10 +5,15 @@
 ## Group 8 - Members
 
 :boy: **- Lucas Alves Moreira**
+
 :boy: **- Lucas Galdino**
+
 :boy: **- Maurício Alves Moreira**
+
 :boy: **- Vitor Geovani**
+
 :boy: **- Tiago Soares**
+
 :boy: **- Ryan Marinho**
 
 ### Tools used
