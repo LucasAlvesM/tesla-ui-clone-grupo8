@@ -11,15 +11,16 @@ Tiago Soares
 Ryan Marinho
 
 ### Ferramentas utilizadas
-Vs Code
-React
-Tutorial
-HTML, CSS e JS
+<p>Vs Code<p>
+<p>React<p>
+<p>Tutorial<p>
+<p>HTML, CSS e JS<p>
 
 ### Para rodar as dependencias é necessario rodar os comandos a seguir:
-{% filename %}npx create-react-app --template=typescript clone-tesla
-yarn add framer-motion styled-components
-yarn add -D@types/styled-components{% endfilename %}
+{% filename %}<p>npx create-react-app --template=typescript clone-tesla<p>
+<p>yarn add framer-motion styled-components<p>
+<p>yarn add -D@types/styled-components<p>
+{% endfilename %}
 
 
 ##PrintScreen
