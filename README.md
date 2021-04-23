@@ -30,7 +30,7 @@
  - ``` yarn add -D@types/styled-components ```
   
  ## 📌 Video used for the tutorial
- **Homepage da Tesla com ReactJS | UI Clone #14 https://www.youtube.com/watch?v=Mf4Se4ZGcG8**
+:link: **Homepage da Tesla com ReactJS | UI Clone #14 https://www.youtube.com/watch?v=Mf4Se4ZGcG8**
 
 
 ## :information_source: Run it in Netlify -> Link below
