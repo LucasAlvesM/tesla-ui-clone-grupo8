@@ -16,6 +16,7 @@
 
 :boy: **- Ryan Marinho**
 
+
 ##  📌 Tools used
 
 **<img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;"></img> React** 
@@ -33,8 +34,10 @@
 :link: **Homepage da Tesla com ReactJS | UI Clone #14 https://www.youtube.com/watch?v=Mf4Se4ZGcG8**
 
 
+
 ## :information_source: Run it in Netlify -> Link below
 :link: **- https://grupo8-tesla-ui-clone.netlify.app/**
+
 
 ## :pushpin: Screenshots
 
