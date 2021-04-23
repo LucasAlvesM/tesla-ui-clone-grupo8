@@ -17,13 +17,16 @@ Ryan Marinho
 <p>HTML, CSS e JS<p>
 
 ### Para rodar as dependencias é necessario rodar os comandos a seguir:
-{% filename %}<p>npx create-react-app --template=typescript clone-tesla<p>
+<p>npx create-react-app --template=typescript clone-tesla<p>
 <p>yarn add framer-motion styled-components<p>
 <p>yarn add -D@types/styled-components<p>
-{% endfilename %}
+  
+ ### video utilizado para o tutorial
+ Homepage da Tesla com ReactJS | UI Clone #14 https://www.youtube.com/watch?v=Mf4Se4ZGcG8
 
 
-##PrintScreen
+
+## Capturas de tela
 
 Format: ![tesla-carro 1](https://github.com/MauricioAlvesM/tesla-clone/blob/main/tesla-pg-0.png)
 
