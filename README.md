@@ -16,7 +16,7 @@
 
 :boy: **- Ryan Marinho**
 
-###  :information_source: Tools used
+###  📌: Tools used
 
 **<img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;"></img> React** 
 
@@ -29,7 +29,7 @@
  - ``` yarn add framer-motion styled-components ```
  - ``` yarn add -D@types/styled-components ```
   
- ### :information_source: Video used for the tutorial
+ ### 📌: Video used for the tutorial
  **Homepage da Tesla com ReactJS | UI Clone #14 https://www.youtube.com/watch?v=Mf4Se4ZGcG8**
 
 
