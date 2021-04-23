@@ -1,6 +1,6 @@
 # Tesla Ui Clone :open_file_folder:     
 
-**Clone of the tesla interface developed in React, through a tutorial on Youtube by RocketSeat**
+:bookmark_tabs: **Clone of the tesla interface developed in React, through a tutorial on Youtube by RocketSeat**
 
 ## Group 8 - Members
 
