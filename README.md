@@ -1,25 +1,25 @@
 # Tesla Ui Clone     
 
-Clone da interface da tesla desenvolvida em React, através de um tutorial no Youtube 
+Clone da interface da tesla desenvolvida em React, através de um tutorial no Youtube pela RocketSeat -
 
 ## Integrantes do Grupo 8 
-Lucas Alves Moreira
-Lucas Galdino
-Mauricio Alves Moreira
-Vitor Geovani
-Tiago Soares
-Ryan Marinho
+- Lucas Alves Moreira
+- Lucas Galdino
+- Mauricio Alves Moreira
+- Vitor Geovani
+- Tiago Soares
+- Ryan Marinho
 
 ## Ferramentas utilizadas
-<p>Vs Code<p>
-<p>React<p>
-<p>Tutorial<p>
-<p>HTML, CSS e JS<p>
 
-## Para rodar as dependencias é necessario rodar os comandos a seguir:
-<p>npx create-react-app --template=typescript clone-tesla<p>
-<p>yarn add framer-motion styled-components<p>
-<p>yarn add -D@types/styled-components<p>
+- React
+- TSX e TS
+- HTML, CSS e JS
+
+### Para rodar as dependencias é necessario rodar os comandos a seguir:
+ - ``` npx create-react-app --template=typescript clone-tesla ```
+ - ``` yarn add framer-motion styled-components ```
+ - ``` yarn add -D@types/styled-components ```
   
  ## video utilizado para o tutorial
  Homepage da Tesla com ReactJS | UI Clone #14 https://www.youtube.com/watch?v=Mf4Se4ZGcG8
