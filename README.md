@@ -25,7 +25,7 @@
  Homepage da Tesla com ReactJS | UI Clone #14 https://www.youtube.com/watch?v=Mf4Se4ZGcG8
 
 
-## Netlify Link
+## Run it in Netlify -> Link below
 - https://grupo8-tesla-ui-clone.netlify.app/
 
 ## Screen Shoots
